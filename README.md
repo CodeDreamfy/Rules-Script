@@ -2,7 +2,11 @@
  * @Author: Codedreamfy@outlook.com
  * @Date: 2022-03-22 21:33:46
  * @LastEditors: Codedreamfy@outlook.com
- * @LastEditTime: 2022-03-22 23:00:10
+<<<<<<< HEAD
+ * @LastEditTime: 2022-03-22 23:01:21
+=======
+ * @LastEditTime: 2022-03-22 22:48:52
+>>>>>>> 94b46e11cdbff3400502ddfa8477d982e626b57a
  * @FilePath: /Rules&Script/README.md
 -->
 # 自用QuantumultX配置及其他规则收集
